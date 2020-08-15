@@ -1,1 +1,1 @@
-# css/sass hints collection
+# UI/UX hints collection
